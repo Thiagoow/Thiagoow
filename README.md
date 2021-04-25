@@ -8,7 +8,7 @@
 <p align="center">
   <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/thiagosilvaloopes/">
-    <img src="https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
   </a>
   &nbsp;
   <!-- Badge - Email -->
@@ -18,7 +18,7 @@
    &nbsp;
   <!-- Badge - Twitter -->
   <a href="https://www.instagram.com/thiagosilvaloopes/">
-    <img src="https://img.shields.io/badge/-My%20Instagram-orange?style=flat-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
+    <img src="https://img.shields.io/badge/-Instagram-orange?style=flat-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
   </a>
    &nbsp;
     <!-- Badge - My Settings -->
