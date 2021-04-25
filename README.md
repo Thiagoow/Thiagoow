@@ -8,12 +8,12 @@
 <p align="center">
   <!-- Badge - Visitas -->
   <a href="https://github.com/Thiagoow">
-    <img src="hhttps://visitor-badge.glitch.me/badge?page_id=thiagoow.ThiagoSilvaLopes" alt="Visitas">
+    <img src="hhttps://visitor-badge.glitch.me/badge?page_id=thiagoow.thiagoow" alt="Visitas">
   </a>
   &nbsp;
   <!-- Badge - LinkedIn -->
   <a href="https://github.com/Thiagoow">
-    <img src="https://img.shields.io/badge/-Gohara Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Thiagoow">
+    <img src="https://img.shields.io/badge/-Thiago Silva Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Thiagoow">
   </a>
   &nbsp;
   <!-- Badge - Email -->
@@ -34,7 +34,7 @@
 
 <!-- Apresentação -->
 
-### <img src="/icons/hello.gif" width="30px"> Oi 😁, meu Nome é Thiago Silva Lopes!
+### <img src="/icons/hello.gif" width="30px"> Oi, meu Nome é Thiago Silva Lopes!
 
 <p>Sou técnico em informática, formado pela ETEC Jardim Ângela, e viso se tornar aprender cada vez mais, para se tornar um programador
 <strong>Front-end</strong> em grandes empresas de tecnologia.</p>
@@ -65,7 +65,7 @@
   <!--VueJS Icon-->
   <img src="/icons/vuejs.png">&nbsp;
   <!-- AdonisJS Icon -->
-  <img src="/icons/adonis.png">&nbsp;
+  <img src="/icons/adonisjs.png">&nbsp;
   <!-- NodeJS Icon -->
   <img src="/icons/nodejs.png">&nbsp;
   <!-- Git Icon -->
