@@ -16,16 +16,27 @@
     <img src="https://img.shields.io/badge/-My%20Email-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
    &nbsp;
-  <!-- Badge - Twitter -->
-  <a href="https://www.instagram.com/thiagosilvaloopes/">
-    <img src="https://img.shields.io/badge/-Instagram-darkorange?style=flat-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
-  </a>
-   &nbsp;
+
     <!-- Badge - My Settings -->
   <a href="https://github.com/Thiagoow/My-VSCode-Settings">
     <img src="https://img.shields.io/badge/-%20My%20Settings-darkred">
   </a>
+  &nbsp;
+  
+  <!-- Badge - Instagram -->
+
+  <a href="https://www.instagram.com/thiagosilvaloopes/">
+
+    <img src="https://img.shields.io/badge/-Instagram-darkorange?style=flat-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
+
+</a>
+
 </p>
+   
+   
+
+
+
 
 <!-- Apresentação -->
 
