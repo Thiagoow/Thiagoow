@@ -60,7 +60,7 @@
   <!--VueJS Icon-->
   <img src="/icons/vuejs.png">&nbsp;
   <!-- AdonisJS Icon -->
-  <img src="/icons/adonisjss.png">&nbsp;
+  <img src="/icons/adonisjs.png">&nbsp;
   <!-- NodeJS Icon -->
   <img src="/icons/nodejs.png">&nbsp;
   <!-- Git Icon -->
