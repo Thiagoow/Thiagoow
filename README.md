@@ -23,7 +23,7 @@
    &nbsp;
     <!-- Badge - My Settings -->
   <a href="https://github.com/Thiagoow/My-VSCode-Settings">
-    <img src="https://img.shields.io/badge/-%20My%20Settings-blueviolet">
+    <img src="https://img.shields.io/badge/-%20My%20Settings-red">
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 <p>Sou técnico em informática, formado pela ETEC Jardim Ângela, e viso aprender cada vez mais, para se tornar um programador
 <strong>Front-end</strong> experiente, atuando em grandes empresas de tecnologia.</p>
 
-<p>Convido-lhe a visitar meus repositórios, e meu LinkedIn. Onde é possível ver meus projetos em desenvolvimento ou desenvolvidos, e minhas habilidades com Front e Back-end.</p>
+<p>Convido-lhe a visitar meus repositórios e meu LinkedIn. Onde é possível ver meus projetos em desenvolvimento, ou desenvolvidos. Juntamente com minhas habilidades com Front e Back-end.</p>
 
 ---
 
