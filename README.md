@@ -13,7 +13,7 @@
   &nbsp;
   <!-- Badge - Email -->
   <a href="mailto:thiagodrive08@hotmail.com">
-    <img src="https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
+    <img src="https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
    &nbsp;
   <!-- Badge - Twitter -->
@@ -34,7 +34,7 @@
 <p>Sou técnico em informática, formado pela ETEC Jardim Ângela, e viso aprender cada vez mais, para se tornar um programador
 <strong>Front-end</strong> experiente, atuando em grandes empresas de tecnologia.</p>
 
-<p>Ainda não possuo experiência real no mercado de trabalho como dev, mas convido-lhe a visitar meus repositórios. Onde é possível ver meus projetos em desenvolvimento ou desenvolvidos, e minhas habilidades com Front e Back-end.</p>
+<p>Convido-lhe a visitar meus repositórios, e meu LinkedIn. Onde é possível ver meus projetos em desenvolvimento ou desenvolvidos, e minhas habilidades com Front e Back-end.</p>
 
 ---
 
