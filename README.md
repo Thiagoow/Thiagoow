@@ -29,9 +29,9 @@
 
 <!-- Apresentação -->
 
-### <img src="/icons/hello.gif" width="30px"> Oi, meu Nome é Thiago Silva Lopes!
+### <img src="/icons/hello.gif" width="30px"> Oi, meu nome é Thiago Silva Lopes!
 
-<p>Sou técnico em informática, formado pela ETEC Jardim Ângela, e viso se tornar aprender cada vez mais, para se tornar um programador
+<p>Sou técnico em informática, formado pela ETEC Jardim Ângela, e viso se aprender cada vez mais, para se tornar um programador
 <strong>Front-end</strong> em grandes empresas de tecnologia.</p>
 
 <p>Ainda não possuo experiência real no mercado de trabalho como dev, mas convido-lhe a visitar meu repositórios. Onde é possível ver meus projetos em desenvolvimento ou desenvolvidos, e minhas habilidades com Front e Back-end.</p>
