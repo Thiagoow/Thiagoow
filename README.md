@@ -6,19 +6,14 @@
 </p>
   &nbsp;
 <p align="center">
-  <!-- Badge - Visitas -->
-  <a href="https://github.com/Thiagoow">
-    <img src="hhttps://visitor-badge.glitch.me/badge?page_id=thiagoow.thiagoow" alt="Visitas">
-  </a>
-  &nbsp;
   <!-- Badge - LinkedIn -->
   <a href="https://github.com/Thiagoow">
-    <img src="https://img.shields.io/badge/-Thiago Silva Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Thiagoow">
+    <img src="https://img.shields.io/badge/-Thiago Silva Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
   </a>
   &nbsp;
   <!-- Badge - Email -->
-  <a href="mailto:lucasgdbittencourt@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
+  <a href="mailto:thiagodrive08@hotmail.com">
+    <img src="https://img.shields.io/badge/-Outlook-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
    &nbsp;
   <!-- Badge - Twitter -->
