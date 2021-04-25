@@ -75,7 +75,7 @@
   <!-- PHP Icon -->
   <img src="/icons/php.png">&nbsp;
   <!-- AdobePS Icon -->
-  <img src="/icons/ps.png">&nbsp;
+  <img src="/icons/pspng">&nbsp;
   <!-- React Icon -->
   <img src="/icons/react.png">&nbsp;
   <!-- React Native Icon -->
