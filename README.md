@@ -18,7 +18,7 @@
    &nbsp;
   <!-- Badge - Twitter -->
   <a href="https://www.instagram.com/thiagosilvaloopes/">
-    <img src="https://img.shields.io/badge/-Instagram-orange?style=flat-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
+    <img src="https://img.shields.io/badge/-Instagram-darkorange?style=flat-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
   </a>
    &nbsp;
     <!-- Badge - My Settings -->
