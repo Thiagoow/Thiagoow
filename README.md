@@ -34,7 +34,7 @@
 <p>Sou técnico em informática, formado pela ETEC Jardim Ângela, e viso se aprender cada vez mais, para se tornar um programador
 <strong>Front-end</strong> em grandes empresas de tecnologia.</p>
 
-<p>Ainda não possuo experiência real no mercado de trabalho como dev, mas convido-lhe a visitar meu repositórios. Onde é possível ver meus projetos em desenvolvimento ou desenvolvidos, e minhas habilidades com Front e Back-end.</p>
+<p>Ainda não possuo experiência real no mercado de trabalho como dev, mas convido-lhe a visitar meus repositórios. Onde é possível ver meus projetos em desenvolvimento ou desenvolvidos, e minhas habilidades com Front e Back-end.</p>
 
 ---
 
@@ -44,9 +44,9 @@
 
 ---
 
-### 👨🏼‍💻 Tecnologias
+### 👨🏻‍💻 Tecnologias
 
-**Estou estudando:**
+**📚 Estou estudando:**
 
 <p align="left">
   <!-- HTML Icon -->
@@ -72,16 +72,16 @@
 **🎯 Tenho interesse:**
 
   <p align="left">
-  <!-- React Icon -->
-  <img src="/icons/react.png">&nbsp;
-  <!-- NextJS Icon -->
-  <img src="/icons/nextJS.png">&nbsp;
-  <!-- Sass Icon -->
-  <img src="/icons/sass.png">&nbsp;
-  <!-- Laravel Icon -->
-  <img src="/icons/laravel.png">&nbsp;
   <!-- PHP Icon -->
   <img src="/icons/php.png">&nbsp;
   <!-- AdobePS Icon -->
   <img src="/icons/ps.png">&nbsp;
+  <!-- React Icon -->
+  <img src="/icons/react.png">&nbsp;
+  <!-- Sass Icon -->
+  <img src="/icons/sass.png">&nbsp;
+  <!-- Laravel Icon -->
+  <img src="/icons/laravel.png">&nbsp;
+  <!-- NextJS Icon -->
+  <img src="/icons/nextJS.png">&nbsp;
 </p>
