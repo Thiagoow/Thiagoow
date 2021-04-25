@@ -7,7 +7,7 @@
   &nbsp;
 <p align="center">
   <!-- Badge - LinkedIn -->
-  <a href="https://github.com/Thiagoow">
+  <a href="https://www.linkedin.com/in/thiagosilvaloopes/">
     <img src="https://img.shields.io/badge/-Thiago Silva Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
   </a>
   &nbsp;
