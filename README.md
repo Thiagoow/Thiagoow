@@ -13,7 +13,7 @@
   &nbsp;
   <!-- Badge - Email -->
   <a href="mailto:thiagodrive08@hotmail.com">
-    <img src="https://img.shields.io/badge/-MyEmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
+    <img src="https://img.shields.io/badge/-MeuEmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
    &nbsp;
   <!-- Badge - Twitter -->
@@ -23,7 +23,7 @@
    &nbsp;
     <!-- Badge - My Settings -->
   <a href="https://github.com/Thiagoow/My-VSCode-Settings">
-    <img src="https://img.shields.io/badge/-%20My%20Settings-red">
+    <img src="https://img.shields.io/badge/-%20My%20Settings-darkred">
   </a>
 </p>
 
