@@ -31,7 +31,7 @@
 
 ### <img src="/icons/hello.gif" width="30px"> Oi, meu nome é Thiago Silva Lopes!
 
-<p>Sou técnico em informática, formado pela ETEC Jardim Ângela, e viso aprender cada vez mais, para se tornar um programador
+<p>Sou técnico em informática, formado pela <strong>ETEC Jardim Ângela</strong>, e viso aprender cada vez mais, para se tornar um programador
 <strong>Front-end</strong> experiente, atuando em grandes empresas de tecnologia.</p>
 
 <p>Convido-lhe a visitar meus repositórios e meu LinkedIn. Onde é possível ver meus projetos em desenvolvimento, ou desenvolvidos. Juntamente com minhas habilidades com Front e Back-end.</p>
@@ -40,7 +40,7 @@
 
 ### 🚀 Objetivos
 
-<p>📌 Aprender as linguagens que tenho interesse, se aprofundar cada vez mais na que estou estudando, e entrar no mercado de trabalho como dev Front-end Jr.</p>
+<p>📌 Aprender as linguagens que tenho interesse, se aprofundar cada vez mais na que estou estudando, e entrar no mercado de trabalho como dev <strong>Front-end Jr.</strong></p>
 
 ---
 
