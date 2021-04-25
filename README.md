@@ -78,6 +78,8 @@
   <img src="/icons/ps.png">&nbsp;
   <!-- React Icon -->
   <img src="/icons/react.png">&nbsp;
+  <!-- React Native Icon -->
+  <img src="/icons/reactnative.png">&nbsp;
   <!-- Sass Icon -->
   <img src="/icons/sass.png">&nbsp;
   <!-- Laravel Icon -->
