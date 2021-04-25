@@ -38,7 +38,7 @@
 
 ---
 
-### 🚀 Objetivos:
+### 🚀 Objetivos
 
 <p>📌 Aprender as linguagens que tenho interesse, se aprofundar cada vez mais na que estou estudando, e entrar no mercado de trabalho como dev Front-end Jr.</p>
 
