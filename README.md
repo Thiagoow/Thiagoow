@@ -8,12 +8,12 @@
 <p align="center">
   <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/thiagosilvaloopes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
   </a>
   &nbsp;
   <!-- Badge - Email -->
   <a href="mailto:thiagodrive08@hotmail.com">
-    <img src="https://img.shields.io/badge/-My%20Email-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
+    <img src="https://img.shields.io/badge/-My%20Email-green?style=round-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
    &nbsp;
 <!-- Badge - My Settings -->
