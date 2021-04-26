@@ -18,7 +18,7 @@
    &nbsp;
 <!-- Badge - My Settings -->
   <a href="https://github.com/Thiagoow/My-VSCode-Settings">
-    <img src="https://img.shields.io/badge/-%20My%20Settings-darkred">
+    <img src="https://img.shields.io/badge/-My%20VSCode%20Settings-darkred">
   </a>
    &nbsp;
     <!-- Badge - Instagram -->
