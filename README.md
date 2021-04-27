@@ -90,3 +90,10 @@
   <!-- NextJS Icon -->
   <img src="/icons/nextJS.png">&nbsp;
 </p>
+
+<a href="https://github.com/Thiagoow/Thiagoow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiagoow&repo=Thiagoow" />
+</a>
+<a href="https://github.com/Thiagoow/Thiagoow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiagoow&repo=Thiagoow" />
+</a>
