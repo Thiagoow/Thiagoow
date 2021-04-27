@@ -58,14 +58,14 @@
   <img src="/icons/js.png">&nbsp;
   <!-- TS Icon -->
   <img src="/icons/ts.png">&nbsp;
-  <!-- NodeJS Icon -->
-  <img src="/icons/nodejs.png">&nbsp;
   <!-- Figma Icon -->
   <img src="/icons/figma.png">&nbsp;
   <!-- Git Icon -->
   <img src="/icons/git.png">&nbsp;
   <!--VueJS Icon-->
   <img src="/icons/vuejs.png">&nbsp;
+  <!-- NodeJS Icon -->
+  <img src="/icons/nodejs.png">&nbsp;
   <!-- AdonisJS Icon -->
   <img src="/icons/adonisjs.png">&nbsp;
   
