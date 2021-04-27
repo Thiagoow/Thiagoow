@@ -23,7 +23,7 @@
    &nbsp;
     <!-- Badge - Instagram -->
   <a href="https://www.instagram.com/thiagosilvaloopes/">
-    <img src="https://img.shields.io/badge/-Instagram-c73800?style=round-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
+    <img src="https://img.shields.io/badge/-Instagram-ff6529?style=round-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
   </a>
   &nbsp;
    <!-- Badge - Profile Views Count -->
