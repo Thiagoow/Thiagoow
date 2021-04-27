@@ -94,16 +94,10 @@
 <!--Add a line to split sections-->
 ****
  
- <!-- Profile Top languages-->
+<!--Configs on: https://github.com/anuraghazra/github-readme-stats-->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact&&theme=dark&hide_border=true&hide=visual%20basic%20.net">&nbsp;
+     <!-- Profile Top languages-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact&&theme=vision-friendly-dark&hide_border=true&hide=visual%20basic%20.net">&nbsp;
     <!-- Profile Stats-->
     <img src="https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&hide=issues,contribs">
 </p>
-    
-
-<p align="left">
-  
-</p>
-
-<!--Configs on: https://github.com/anuraghazra/github-readme-stats-->
