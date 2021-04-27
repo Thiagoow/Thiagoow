@@ -28,7 +28,7 @@
   &nbsp;
    <!-- Badge - Profile Views Count -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Thiagoow&color=0007c4">
+    <img src="https://komarev.com/ghpvc/?username=Thiagoow&style=plastic&color=0007c4">
   </p>
 </p>
 
