@@ -8,7 +8,7 @@
 <p align="center">
   <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/thiagosilvaloopes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-lightblue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-darkblue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
   </a>
   &nbsp;
   <!-- Badge - Email -->
