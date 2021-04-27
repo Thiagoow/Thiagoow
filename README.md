@@ -96,11 +96,12 @@
  
  <!-- Profile Top languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact">
 </p>
 -->
 
 <!-- Profile Stats-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=dark&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=dark&include_all_commits=true&hide=total%20issues">
 </p>
+
