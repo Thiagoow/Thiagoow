@@ -90,3 +90,9 @@
   <!-- PHP Icon -->
   <img src="/icons/php.png">&nbsp;
 </p>
+
+****
+  <p align="center">
+  <!-- Profile Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact)">
+</p>
