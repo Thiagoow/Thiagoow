@@ -13,7 +13,7 @@
   &nbsp;
   <!-- Badge - Email -->
   <a href="mailto:thiagodrive08@hotmail.com">
-    <img src="https://img.shields.io/badge/-My%20Email-green?style=round-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
+    <img src="https://img.shields.io/badge/-My%20Email-17ff45?style=round-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
    &nbsp;
 <!-- Badge - My Settings -->
