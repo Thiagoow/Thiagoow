@@ -27,6 +27,9 @@
   </a>
 </p>
 
+<!-- Badge - Views Count -->
+![](https://komarev.com/ghpvc/?username=Thiagoow&color=0007c4)
+
 <!-- Apresentação -->
 
 ### <img src="/icons/hello.gif" width="30px"> Oi, meu nome é Thiago Silva Lopes!
@@ -87,6 +90,3 @@
   <!-- NextJS Icon -->
   <img src="/icons/nextJS.png">&nbsp;
 </p>
-
-   <!-- Badge - Views Count -->
-![](https://komarev.com/ghpvc/?username=Thiagoow&color=0007c4)
