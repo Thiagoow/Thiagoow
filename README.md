@@ -96,7 +96,7 @@
  
  <!-- Profile Top languages-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact&&theme=midnight-purple&hide=visual%20basic%20.net">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact&&theme=gotham&hide=visual%20basic%20.net">
 </p>
 
 <!-- Profile Stats-->
