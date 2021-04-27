@@ -27,8 +27,10 @@
   </a>
 </p>
 
-<!-- Badge - Views Count -->
-![](https://komarev.com/ghpvc/?username=Thiagoow&color=0007c4)
+<p align="center">
+  <!-- Badge - Views Count -->
+    <a href="https://komarev.com/ghpvc/?username=Thiagoow&color=0007c4>
+</p>
 
 <!-- Apresentação -->
 
