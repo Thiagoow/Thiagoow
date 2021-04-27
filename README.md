@@ -6,7 +6,6 @@
   <!-- Badge - Profile View Counter -->
   <img src="https://komarev.com/ghpvc/?username=Thiagoow&style=plastic&color=0007c4">
 </p>
-  &nbsp;
 <p align="center">
   <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/thiagosilvaloopes/">
