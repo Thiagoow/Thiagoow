@@ -91,6 +91,7 @@
   <img src="/icons/nextJS.png">&nbsp;
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact)](https://github.com/Thiagoow)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact)](https://github.com/Thiagoow)
+
 
