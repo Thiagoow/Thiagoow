@@ -18,8 +18,8 @@
   </a>
    &nbsp;
 <!-- Badge - My Settings -->
-  <a href="https://github.com/Thiagoow/My-VSCode-Settings">
-    <img src="https://img.shields.io/badge/-My%20VSCode%20Settings-d10000">
+  <a href="https://github.com/Thiagoow/My-Settings">
+    <img src="https://img.shields.io/badge/-My%20Settings-d10000">
   </a>
    &nbsp;
     <!-- Badge - Instagram -->
