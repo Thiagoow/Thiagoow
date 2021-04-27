@@ -58,29 +58,31 @@
   <img src="/icons/js.png">&nbsp;
   <!-- TS Icon -->
   <img src="/icons/ts.png">&nbsp;
+  <!-- NodeJS Icon -->
+  <img src="/icons/nodejs.png">&nbsp;
+  <!-- Figma Icon -->
+  <img src="/icons/figma.png">&nbsp;
+  <!-- Git Icon -->
+  <img src="/icons/git.png">&nbsp;
   <!--VueJS Icon-->
   <img src="/icons/vuejs.png">&nbsp;
   <!-- AdonisJS Icon -->
   <img src="/icons/adonisjs.png">&nbsp;
-  <!-- NodeJS Icon -->
-  <img src="/icons/nodejs.png">&nbsp;
-  <!-- Git Icon -->
-  <img src="/icons/git.png">&nbsp;
-  <!-- Figma Icon -->
-  <img src="/icons/figma.png">&nbsp;
+  
+  
 </p>
 
 **🎯 Tenho interesse:**
 
   <p align="left">
-  <!-- PHP Icon -->
-  <img src="/icons/php.png">&nbsp;
-  <!-- AdobePS Icon -->
-  <img src="/icons/ps.png">&nbsp;
   <!-- React Icon -->
   <img src="/icons/react.png">&nbsp;
   <!-- React Native Icon -->
   <img src="/icons/reactnative.png">&nbsp;
+  <!-- AdobePS Icon -->
+  <img src="/icons/ps.png">&nbsp;
+  <!-- PHP Icon -->
+  <img src="/icons/php.png">&nbsp;
   <!-- Sass Icon -->
   <img src="/icons/sass.png">&nbsp;
   <!-- Laravel Icon -->
