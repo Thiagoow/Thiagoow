@@ -91,12 +91,14 @@
   <img src="/icons/php.png">&nbsp;
 </p>
 
-**<!-- Add a line to split sections -->**
+<!--Add a line to split sections-->
+****
  
- <!-- Profile Top languages  -->
+ <!-- Profile Top languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact)">
 </p>
+-->
 
 <!-- Profile Stats-->
 <p align="center">
