@@ -27,11 +27,6 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- Badge - Views Count -->
-    <a href="https://komarev.com/ghpvc/?username=Thiagoow&color=0007c4>
-</p>
-
 <!-- Apresentação -->
 
 ### <img src="/icons/hello.gif" width="30px"> Oi, meu nome é Thiago Silva Lopes!
