@@ -13,12 +13,12 @@
   &nbsp;
   <!-- Badge - Email -->
   <a href="mailto:thiagodrive08@hotmail.com">
-    <img src="https://img.shields.io/badge/-My%20Email-17ff45?style=round-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
+    <img src="https://img.shields.io/badge/-My%20Email-0ec733?style=round-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
    &nbsp;
 <!-- Badge - My Settings -->
   <a href="https://github.com/Thiagoow/My-VSCode-Settings">
-    <img src="https://img.shields.io/badge/-My%20VSCode%20Settings-darkred">
+    <img src="https://img.shields.io/badge/-My%20VSCode%20Settings-d10000">
   </a>
    &nbsp;
     <!-- Badge - Instagram -->
