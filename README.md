@@ -79,14 +79,14 @@
   <img src="/icons/react.png">&nbsp;
   <!-- React Native Icon -->
   <img src="/icons/reactnative.png">&nbsp;
-  <!-- AdobePS Icon -->
-  <img src="/icons/ps.png">&nbsp;
+  <!-- NextJS Icon -->
+  <img src="/icons/nextJS.png">&nbsp;
+  <!-- AdobePS Icon
+  <img src="/icons/ps.png">&nbsp;-->
   <!-- PHP Icon -->
   <img src="/icons/php.png">&nbsp;
   <!-- Sass Icon -->
   <img src="/icons/sass.png">&nbsp;
   <!-- Laravel Icon -->
   <img src="/icons/laravel.png">&nbsp;
-  <!-- NextJS Icon -->
-  <img src="/icons/nextJS.png">&nbsp;
 </p>
