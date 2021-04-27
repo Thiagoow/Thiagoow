@@ -90,9 +90,3 @@
   <!-- NextJS Icon -->
   <img src="/icons/nextJS.png">&nbsp;
 </p>
-
-<br></br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact">
-</p>
