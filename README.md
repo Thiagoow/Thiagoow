@@ -96,12 +96,12 @@
  
  <!-- Profile Top languages-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact&&theme=gotham&hide=visual%20basic%20.net">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact&&theme=dark&hide=visual%20basic%20.net">
 </p>
 
 <!-- Profile Stats-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=midnight-purple&include_all_commits=true&hide=issues,contribs">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=dark&include_all_commits=true&hide=issues,contribs">
 </p>
 
 <!--Configs on: https://github.com/anuraghazra/github-readme-stats-->
