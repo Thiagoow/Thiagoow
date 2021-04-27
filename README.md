@@ -1,10 +1,10 @@
 <p align="center">
-  <!-- Badge - Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Thiagoow&style=plastic&color=0007c4">
+    <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
 </p>
   &nbsp;
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
+  <p align="center">
+  <!-- Badge - Profile View Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Thiagoow&style=plastic&color=0007c4">
 </p>
   &nbsp;
 <p align="center">
@@ -27,10 +27,6 @@
   <a href="https://www.instagram.com/thiagosilvaloopes/">
     <img src="https://img.shields.io/badge/-Instagram-ed8907?style=round-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
   </a>
-  &nbsp;
-  <p align="center">
-    
-  </p>
 </p>
 
 <!-- Apresentação -->
