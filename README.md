@@ -16,8 +16,6 @@
     <img src="https://img.shields.io/badge/-My%20Email-green?style=round-square&logo=Gmail&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
    &nbsp;
-   <!-- Badge - Views Count -->
-![](https://komarev.com/ghpvc/?username=Thiagoow&color=478)
 <!-- Badge - My Settings -->
   <a href="https://github.com/Thiagoow/My-VSCode-Settings">
     <img src="https://img.shields.io/badge/-My%20VSCode%20Settings-darkred">
@@ -89,3 +87,6 @@
   <!-- NextJS Icon -->
   <img src="/icons/nextJS.png">&nbsp;
 </p>
+
+   <!-- Badge - Views Count -->
+![](https://komarev.com/ghpvc/?username=Thiagoow&color=0007c4)
