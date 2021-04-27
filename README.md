@@ -1,4 +1,6 @@
 <p align="center">
+  <!-- Badge - Profile View Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Thiagoow&style=plastic&color=0007c4">
 </p>
   &nbsp;
 <p align="center">
@@ -26,9 +28,8 @@
     <img src="https://img.shields.io/badge/-Instagram-ed8907?style=round-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
   </a>
   &nbsp;
-   <!-- Badge - Profile Views Count -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Thiagoow&style=plastic&color=0007c4">
+    
   </p>
 </p>
 
