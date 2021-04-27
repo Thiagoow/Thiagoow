@@ -25,10 +25,12 @@
   <a href="https://www.instagram.com/thiagosilvaloopes/">
     <img src="https://img.shields.io/badge/-Instagram-darkorange?style=round-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
   </a>
+  &nbsp;
+   <!-- Badge - Profile Views Count -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Thiagoow&color=0007c4">
+  </p>
 </p>
-
-<!-- Badge - Profile Views Count -->
-![center](https://komarev.com/ghpvc/?username=Thiagoow&color=0007c4)
 
 <!-- Apresentação -->
 
