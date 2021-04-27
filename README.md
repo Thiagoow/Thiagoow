@@ -102,5 +102,5 @@
 
 <!-- Profile Stats-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=dark&custom_title=Estatísticas%20do%20meu%20perfil&include_all_commits=true&hide=TotalIssues,ContribuedTo)">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=dark&include_all_commits=true">
 </p>
