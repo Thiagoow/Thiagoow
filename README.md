@@ -99,5 +99,5 @@
      <!-- Profile Top languages-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact&custom_title=Thiago's%20Most%20Used%20Languages:&theme=dark&hide_border=true&hide=visual%20basic%20.net">&nbsp;
     <!-- Profile Stats-->
-    <img src="https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=dark&hide_border=true&custom_title=Thiago%20Silva%20Lopes%20GitHub%20Stats:&include_all_commits=true&hide=issues,contribs">
+    <img src="https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=dark&hide_border=true&custom_title=Thiago's%20GitHub%20Stats:&include_all_commits=true&hide=issues,contribs">
 </p>
