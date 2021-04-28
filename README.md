@@ -86,7 +86,7 @@
   <!-- Laravel Icon -->
   <img src="/icons/laravel.png">&nbsp;
   <!-- NextJS Icon -->
-  <img src="/icons/nextJS.png">&nbsp;
+  <img src="/icons/nextjs.png">&nbsp;
   <!-- PHP Icon -->
   <img src="/icons/php.png">&nbsp;
 </p>
