@@ -83,10 +83,10 @@
   <img src="/icons/reactnative.png">&nbsp;
   <!-- Sass Icon -->
   <img src="/icons/sass.png">&nbsp;
-  <!-- Laravel Icon -->
-  <img src="/icons/laravel.png">&nbsp;
   <!-- NextJS Icon -->
   <img src="/icons/nextjs.png">&nbsp;
+  <!-- Laravel Icon -->
+  <img src="/icons/laravel.png">&nbsp;
   <!-- PHP Icon -->
   <img src="/icons/php.png">&nbsp;
 </p>
