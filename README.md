@@ -58,8 +58,10 @@
   <img src="/icons/js.png">&nbsp;
   <!-- TS Icon -->
   <img src="/icons/ts.png">&nbsp;
-  <!-- Figma Icon -->
-  <img src="/icons/figma.png">&nbsp;
+  <!--AdobeXd Icon-->
+  <img src="/icons/adobeXd.png">&nbsp;
+  <!-- Figma Icon 
+  <img src="/icons/figma.png">&nbsp; -->
   <!-- Git Icon -->
   <img src="/icons/git.png">&nbsp;
   <!--VueJS Icon-->
