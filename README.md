@@ -63,7 +63,7 @@
   <!-- Figma Icon -->
   <img src="/icons/figma.png">&nbsp;
   <!-- Git Icon -->
-  <img src="/icons/git.png">&nbsp;
+  <img src="/icons/git.png">
   <!--VueJS Icon-->
   <img src="/icons/vuejs.png">&nbsp;
   <!-- NodeJS Icon -->
