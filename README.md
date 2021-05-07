@@ -62,9 +62,6 @@
   <img src="/icons/adobeXD.png">&nbsp;
   <!-- Figma Icon -->
   <img src="/icons/figma.png">&nbsp;
-</p>
-
-<p align="left">
   <!-- Git Icon -->
   <img src="/icons/git.png">&nbsp;
   <!--VueJS Icon-->
