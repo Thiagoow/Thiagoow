@@ -14,7 +14,7 @@
   &nbsp;
   <!-- Badge - Email -->
   <a href="mailto:thiagodrive08@hotmail.com">
-    <img src="https://img.shields.io/badge/-My%20Email-darkred?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
+    <img src="https://img.shields.io/badge/-My%20Email-fa0c0c?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
    &nbsp;
 <!-- Badge - My Settings -->
