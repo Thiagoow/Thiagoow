@@ -9,7 +9,7 @@
 <p align="center">
   <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/thiagosilvaloopes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-1e337f?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-4b0cfa?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
   </a>
   &nbsp;
   <!-- Badge - Email -->
