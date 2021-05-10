@@ -18,8 +18,8 @@
   </a>
    &nbsp;
 <!-- Badge - My Settings -->
-  <a href="https://github.com/Thiagoow/My-Settings">
-    <img src="https://img.shields.io/badge/-My%20Settings-0cfa24&logo=visual-studio-code">
+  <a href="https://github.com/Thiagoow/My-Settings"
+    <img src="https://img.shields.io/badge/-My%20Settings-0cfa24&logo=visual-studio-code&logoColor=white">
   </a>
    &nbsp;
     <!-- Badge - Instagram -->
