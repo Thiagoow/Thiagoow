@@ -19,7 +19,7 @@
    &nbsp;
 <!-- Badge - My Settings -->
   <a href="https://github.com/Thiagoow/My-Settings">
-    <img src="https://img.shields.io/badge/-My%20Settings-07eb1e?logo=visual-studio-code">
+    <img src="https://img.shields.io/badge/-My%20Settings-06c91a?logo=visual-studio-code">
   </a>
    &nbsp;
     <!-- Badge - Instagram -->
