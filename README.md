@@ -24,7 +24,7 @@
    &nbsp;
     <!-- Badge - Instagram -->
   <a href="https://www.instagram.com/thiagosilvaloopes/">
-    <img src="https://img.shields.io/badge/-Instagram%20-ed8907?style=round-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
+    <img src="https://img.shields.io/badge/-Instagram%20-fa8f0c?style=round-square&labelColor=orange&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
   </a>
 </p>
 
