@@ -4,7 +4,7 @@
   &nbsp;
   <p align="center">
   <!-- Badge - Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Thiagoow&style=plastic&color=0007c4">
+  <img src="https://img.shields.io/github/Thiagoow/snowdreams1006.github.io.svg?style=social">
 </p>
 <p align="center">
   <!-- Badge - LinkedIn -->
