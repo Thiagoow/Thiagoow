@@ -4,8 +4,7 @@
   &nbsp;
   <p align="center">
   <!-- Badge - Profile View Counter -->
-   <img src="https://img.shields.io/github/watchers/thiagoow/thiagoow?label=Profile%20Views&style=social">
-   <!--<img src="https://komarev.com/ghpvc/?username=Thiagoow&style=plastic&color=0007c4">-->
+   <img src="https://komarev.com/ghpvc/?username=Thiagoow&style=plastic&color=0007c4">
 </p>
 <p align="center">
   <!-- Badge - LinkedIn -->
