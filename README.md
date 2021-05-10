@@ -19,7 +19,7 @@
    &nbsp;
 <!-- Badge - My Settings -->
   <a href="https://github.com/Thiagoow/My-Settings">
-    <img src="https://img.shields.io/badge/-My%20Settings-0ec733">
+    <img src="https://img.shields.io/badge/-My%20Settings-0cfa24">
   </a>
    &nbsp;
     <!-- Badge - Instagram -->
