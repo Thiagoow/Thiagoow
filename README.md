@@ -9,12 +9,12 @@
 <p align="center">
   <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/thiagosilvaloopes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-4b0cfa?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e00cf?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
   </a>
   &nbsp;
   <!-- Badge - Email -->
   <a href="mailto:thiagodrive08@hotmail.com">
-    <img src="https://img.shields.io/badge/-My%20Email-fa0c0c?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
+    <img src="https://img.shields.io/badge/-My%20E-mail-fa0c0c?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
    &nbsp;
 <!-- Badge - My Settings -->
