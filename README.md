@@ -35,7 +35,7 @@
 <p>Sou técnico em informática, formado pela <strong>ETEC Jardim Ângela</strong>, e viso aprender cada vez mais, para se tornar um programador
 <strong>Front-end</strong> experiente, atuando em grandes empresas de tecnologia.</p>
 
-<p>Convido-lhe a visitar meus repositórios e meu <strong>LinkedIn.</strong> Onde é possível ver meus projetos em desenvolvimento, ou desenvolvidos. Juntamente com minhas habilidades com <strong>Front e Back-end.</strong></p>
+<p>Convido-lhe a visitar meus repositórios e meu <strong>LinkedIn.</strong> Onde você pode ver meus projetos! Sejam eles já desenvolvidos, ou em desenvolvimento. Juntamente com minhas habilidades em <strong>UX/UI, Front End e Back End.</strong> 🤟🏼😁☺
 
 ---
 
