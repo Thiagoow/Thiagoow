@@ -41,7 +41,7 @@
 
 <p>📌 Dominar as linguagens que tenho interesse;</p>
 <p>📌 Se aprofundar cada vez mais na minha área profissional;</p>
-<p>📌 Entrar no mercado de trabalho como desenvolvedor <strong>Front End Jr</strong>.🎆</p>
+<p>📌 Entrar no mercado de trabalho como desenvolvedor <strong>Front End Jr</strong>. 🎆</p>
 
 ---
 
