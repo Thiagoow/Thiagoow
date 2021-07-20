@@ -36,7 +36,6 @@
 <p>Sou técnico em informática, formado pela <strong> <a target="_blank" href="https://etecjardimangela.com.br/2/">ETEC Jardim Ângela</a> </strong>, e viso aprender cada vez mais, para se tornar um programador <strong>Front End experiente</strong>, atuando em grandes empresas de tecnologia.</p>
 <p>Convido-lhes a visitar meus repositórios e meu <strong><a target="_blank" href="https://www.linkedin.com/in/thiagosilvaloopes/">LinkedIn</a></strong>, onde você pode ver meus projetos. Sejam eles já desenvolvidos, ou em desenvolvimento. Juntamente com minhas habilidades em <strong>UX/UI, Front End e Back End. 🤟🏼😁☺</strong>
 
-
 ---
  
 <!-- ReadMe em EN & PT-BR: -->
@@ -57,7 +56,7 @@
 ### 👨🏻‍💻 Tecnologias
 
 <!-- GIF Gato digitando :p -->
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200px" align="right">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" align="right">
 
 **📚 Estou estudando:**
 
