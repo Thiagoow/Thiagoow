@@ -52,7 +52,7 @@
     
 <p>📌 Mastering the languages I'm interested in;</p>
 <p>📌 Deepen always more into my professional area;</p>
-<p>📌 Entering the job market as a <strong>Front End Jr</strong> developer. 🎆</p>
+<p>📌 Entering the job market as a <strong>Front End Jr</strong> dev. 🎆</p>
 
 ---
 
