@@ -29,15 +29,15 @@
   </a>
 </p>
 
+<!-- Presentation -->
+### <img src="/icons/hello.gif" width="30px"> Hi, my name is Thiago Silva Lopes!
+
 <!-- ReadMe in EN & PT-BR: -->
 <table align="right">
  <td>Language:</td>
  <tr><td><a href="README.md">English</a></td></tr>
  <tr><td><a href="README_PT-BR.md">Português</a></td></tr>
 </table>
-
-<!-- Presentation -->
-### <img src="/icons/hello.gif" width="30px"> Hi, my name is Thiago Silva Lopes!
 
 <p>I am a computer technician, graduated from <strong> <a target="_blank" href="https://etecjardimangela.com.br/2/">ETEC Jardim Ângela</a> </strong>, and I aim to learn always more, to become a <strong>experienced Front End Developer</strong>, working in large technology companies.</p>
 <p>I invite you to visit my repositories and my <strong><a target="_blank" href="https://www.linkedin.com/in/thiagosilvaloopes/">LinkedIn</a></strong>, where you can see my designs. Whether they are already developed or under development. Along with my skills in <strong>UX/UI, Front End and Back End. 🤟🏼😁☺</strong>
