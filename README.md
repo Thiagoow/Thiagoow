@@ -35,7 +35,7 @@
 ### <img src="/icons/hello.gif" width="30px"> Oi, meu nome é Thiago Silva Lopes!
 <!-- ReadMe em EN e PT: -->
 <table align="right">
-    <tr>Language:</tr>
+ <td>Language:</td>
  <tr><td><a href="README.md">Português</a></td></tr>
  <tr><td><a href="README_en.md">English</a></td></tr>
 </table>
