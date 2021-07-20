@@ -2,6 +2,14 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
 </p>
+
+<!-- ReadMe em EN & PT-BR: -->
+<table align="right">
+ <td>Idioma:</td>
+ <tr><td><a href="README_PT-BR.md">Português</a></td></tr>
+ <tr><td><a href="README.md">English</a></td></tr>
+</table>
+
   &nbsp;
   <p align="center">
   <!-- Badge - Profile View Counter -->
@@ -30,13 +38,6 @@
 </p>
 
 <!-- Apresentação -->
-<!-- ReadMe em EN & PT-BR: -->
-<table align="right">
- <td>Idioma:</td>
- <tr><td><a href="README_PT-BR.md">Português</a></td></tr>
- <tr><td><a href="README.md">English</a></td></tr>
-</table>
-
 ### <img src="/icons/hello.gif" width="30px"> Oi, meu nome é Thiago Silva Lopes!
 
 
@@ -45,6 +46,9 @@
 
 
 ---
+    
+<!-- Cat typing GIF :p -->
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220px" align="right">
 
 ### 🎯 Objetivos
 
