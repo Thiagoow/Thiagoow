@@ -83,7 +83,7 @@
   <img src="/icons/adonisjs.png">&nbsp;
 </p>
 
-**🚀 Tenho interesse:**
+**🚀 I'm interested:**
 
   <p align="left">
   <!-- AdobePS Icon
