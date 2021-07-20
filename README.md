@@ -3,14 +3,6 @@
     <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
 </p>
   &nbsp;
-  
-<!-- ReadMe in EN & PT-BR: -->
-<table align="right">
- <td>Content Language:</td>
- <tr><td align="center"><a href="README_PT-BR.md">Português</a></td></tr>
- <tr><td align="center"><a href="README.md">English</a></td></tr>
-</table>
-
   <p align="center">
   <!-- Badge - Profile View Counter -->
    <img src="https://komarev.com/ghpvc/?username=Thiagoow&style=plastic&color=0007c4">
@@ -45,8 +37,12 @@
 
 ---
     
-<!-- Cat typing GIF :p -->
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200px" align="right">
+<!-- ReadMe in EN & PT-BR: -->
+<table align="right">
+ <td>Content Language:</td>
+ <tr><td align="center"><a href="README_PT-BR.md">Português</a></td></tr>
+ <tr><td align="center"><a href="README.md">English</a></td></tr>
+</table>
 
 ### 🎯 Objectives
     
@@ -57,6 +53,9 @@
 ---
 
 ### 👨🏻‍💻 Technologies
+
+<!-- Cat typing GIF :p -->
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200px" align="right">
 
 **📚 Currently studying:**
 
