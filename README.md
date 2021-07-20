@@ -1,4 +1,4 @@
-<!-- Divisão animada em gif: -->
+<!-- Animated divider in GIF: -->
 <p align="center">
     <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
 </p>
@@ -29,34 +29,33 @@
   </a>
 </p>
 
-<!-- Apresentação -->
-<!-- ReadMe em EN e PT: -->
+<!-- ReadMe in EN & PT-BR: -->
 <table align="right">
- <td>Idioma:</td>
- <tr><td><a href="README.md">Português</a></td></tr>
- <tr><td><a href="README_en.md">English</a></td></tr>
+ <td>Language:</td>
+ <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="README_PTBR.md">Português</a></td></tr>
 </table>
 
-### <img src="/icons/hello.gif" width="30px"> Oi, meu nome é Thiago Silva Lopes!
+<!-- Presentation -->
+### <img src="/icons/hello.gif" width="30px"> Hi, my name is Thiago Silva Lopes!
 
-
-<p>Sou técnico em informática, formado pela <strong> <a target="_blank" href="https://etecjardimangela.com.br/2/">ETEC Jardim Ângela</a> </strong>, e viso aprender cada vez mais, para se tornar um programador <strong>Front End experiente</strong>, atuando em grandes empresas de tecnologia.</p>
-<p>Convido-lhes a visitar meus repositórios e meu <strong><a target="_blank" href="https://www.linkedin.com/in/thiagosilvaloopes/">LinkedIn</a></strong>, onde você pode ver meus projetos. Sejam eles já desenvolvidos, ou em desenvolvimento. Juntamente com minhas habilidades em <strong>UX/UI, Front End e Back End. 🤟🏼😁☺</strong>
+<p>I am a computer technician, graduated from <strong> <a target="_blank" href="https://etecjardimangela.com.br/2/">ETEC Jardim Ângela</a> </strong>, and I aim to learn always more, to become a <strong>experienced Front End Developer</strong>, working in large technology companies.</p>
+<p>I invite you to visit my repositories and my <strong><a target="_blank" href="https://www.linkedin.com/in/thiagosilvaloopes/">LinkedIn</a></strong>, where you can see my designs. Whether they are already developed or under development. along with my skills in <strong>UX/UI, Front End and Back End. 🤟🏼😁☺</strong>
 
 
 ---
 
-### 🎯 Objetivos
+### 🎯 Objectives
 
-<p>📌 Dominar as linguagens que tenho interesse;</p>
-<p>📌 Se aprofundar cada vez mais na minha área profissional;</p>
-<p>📌 Entrar no mercado de trabalho como desenvolvedor <strong>Front End Jr</strong>. 🎆</p>
+<p>📌 Mastering the languages I'm interested in;</p>
+<p>📌 Deepen always more into my professional area;</p>
+<p>📌 Entering the job market as a <strong>Front End Jr</strong> developer. 🎆</p>
 
 ---
 
-### 👨🏻‍💻 Tecnologias
+### 👨🏻‍💻 Technologies
 
-**📚 Estou estudando:**
+**📚 Currently studying:**
 
 <p align="left">
   <!-- HTML Icon -->
