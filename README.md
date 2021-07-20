@@ -1,15 +1,16 @@
-<!-- ReadMe in EN & PT-BR: -->
-<table align="center">
- <td>Content Language:</td>
- <tr><td align="center"><a href="README_PT-BR.md">Português</a></td></tr>
- <tr><td align="center"><a href="README.md">English</a></td></tr>
-</table>
-
 <!-- Animated divider in GIF: -->
 <p align="center">
     <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
 </p>
   &nbsp;
+  
+<!-- ReadMe in EN & PT-BR: -->
+<table align="right">
+ <td>Content Language:</td>
+ <tr><td align="center"><a href="README_PT-BR.md">Português</a></td></tr>
+ <tr><td align="center"><a href="README.md">English</a></td></tr>
+</table>
+
   <p align="center">
   <!-- Badge - Profile View Counter -->
    <img src="https://komarev.com/ghpvc/?username=Thiagoow&style=plastic&color=0007c4">
