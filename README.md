@@ -86,7 +86,7 @@
 
   <p align="left">
   <!-- AdobePS Icon
-  <img src="/icons/ps.png">&nbsp;-->
+  <img src="/icons/ps.png">&nbsp; -->
   <!-- React Icon -->
   <img src="/icons/react.png">&nbsp;
   <!-- React Native Icon -->
