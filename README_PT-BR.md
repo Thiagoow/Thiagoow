@@ -6,8 +6,8 @@
 <!-- ReadMe em EN & PT-BR: -->
 <table align="right">
  <td>Idioma:</td>
- <tr><td><a href="README_PT-BR.md">Português</a></td></tr>
  <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="README_PT-BR.md">Português</a></td></tr>
 </table>
 
   &nbsp;
@@ -48,7 +48,7 @@
 ---
     
 <!-- Cat typing GIF :p -->
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220px" align="right">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200px" align="right">
 
 ### 🎯 Objetivos
 
