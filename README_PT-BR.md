@@ -111,4 +111,4 @@
 -->
 
 ![Profile Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact&custom_title=Thiagoow%20-%20Linguagens%20Mais%20Utilizadas:&theme=dark&hide_border=true&hide=visual%20basic%20.net)
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=dark&hide_border=true&custom_title=Estatísticas%20do%20GitHub%20Thiago%20Silva%20Lopes:&include_all_commits=true&hide=issues,contribs)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=dark&hide_border=true&custom_title=Estatísticas%20do%20GitHub%20-%20Thiago%20Silva%20Lopes:&include_all_commits=true&hide=issues,contribs)
