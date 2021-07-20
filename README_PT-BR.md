@@ -23,12 +23,12 @@
   &nbsp;
   <!-- Badge - Email -->
   <a href="mailto:thiagodrive08@hotmail.com">
-    <img src="https://img.shields.io/badge/-My%20Email-ff0000?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
+    <img src="https://img.shields.io/badge/-Meu%20Email-ff0000?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
    &nbsp;
 <!-- Badge - My Settings -->
   <a href="https://github.com/Thiagoow/My-Settings">
-    <img src="https://img.shields.io/badge/-My%20Settings-06c91a?logo=visual-studio-code">
+    <img src="https://img.shields.io/badge/-Minhas%20Configs-06c91a?logo=visual-studio-code">
   </a>
    &nbsp;
     <!-- Badge - Instagram -->
