@@ -1,5 +1,4 @@
-
-
+<!-- Divisão animada em gif: -->
 <p align="center">
     <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
 </p>
