@@ -2,6 +2,14 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
 </p>
+
+<!-- ReadMe in EN & PT-BR: -->
+<table align="right">
+ <td>Language:</td>
+ <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="README_PT-BR.md">Português</a></td></tr>
+</table>
+
   &nbsp;
   <p align="center">
   <!-- Badge - Profile View Counter -->
@@ -36,16 +44,12 @@
 <p>I invite you to visit my repositories and my <strong><a target="_blank" href="https://www.linkedin.com/in/thiagosilvaloopes/">LinkedIn</a></strong>, where you can see my designs. Whether they are already developed or under development. Along with my skills in <strong>UX/UI, Front End and Back End. 🤟🏼😁☺</strong>
 
 ---
+    
+<!-- Cat typing GIF :p -->
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="240px" align="right">
 
 ### 🎯 Objectives
     
-<!-- ReadMe in EN & PT-BR: -->
-<table align="right">
- <td>Language:</td>
- <tr><td><a href="README.md">English</a></td></tr>
- <tr><td><a href="README_PT-BR.md">Português</a></td></tr>
-</table>
-
 <p>📌 Mastering the languages I'm interested in;</p>
 <p>📌 Deepen always more into my professional area;</p>
 <p>📌 Entering the job market as a <strong>Front End Jr</strong> developer. 🎆</p>
