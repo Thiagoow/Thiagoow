@@ -35,8 +35,9 @@
 ### <img src="/icons/hello.gif" width="30px"> Oi, meu nome é Thiago Silva Lopes!
 <!-- ReadMe em EN e PT: -->
 <table align="right">
- <tr><td><a href="README_en.md">English</a></td></tr>
+    <tr>Language:</tr>
  <tr><td><a href="README.md">Português</a></td></tr>
+ <tr><td><a href="README_en.md">English</a></td></tr>
 </table>
 
 <p>Sou técnico em informática, formado pela <strong> <a target="_blank" href="https://etecjardimangela.com.br/2/">ETEC Jardim Ângela</a> </strong>, e viso aprender cada vez mais, para se tornar um programador <strong>Front End experiente</strong>, atuando em grandes empresas de tecnologia.</p>
