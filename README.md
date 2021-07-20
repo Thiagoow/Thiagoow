@@ -6,8 +6,8 @@
 <!-- ReadMe in EN & PT-BR: -->
 <table align="right">
  <td>Language:</td>
- <tr><td><a href="README.md">English</a></td></tr>
  <tr><td><a href="README_PT-BR.md">Português</a></td></tr>
+ <tr><td><a href="README.md">English</a></td></tr>
 </table>
 
   &nbsp;
