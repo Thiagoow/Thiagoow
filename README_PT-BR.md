@@ -1,15 +1,14 @@
+<!-- ReadMe em EN & PT-BR: -->
+<table align="center">
+ <td>Idioma do Conteúdo:</td>
+ <tr><td align="center"><a href="README.md">Inglês</a></td></tr>
+ <tr><td align="center"><a href="README_PT-BR.md">Português</a></td></tr>
+</table>
+
 <!-- Divisor animado em GIF: -->
 <p align="center">
     <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
 </p>
-
-<!-- ReadMe em EN & PT-BR: -->
-<table align="right">
- <td>Idioma:</td>
- <tr><td><a href="README.md">English</a></td></tr>
- <tr><td><a href="README_PT-BR.md">Português</a></td></tr>
-</table>
-
   &nbsp;
   <p align="center">
   <!-- Badge - Profile View Counter -->
