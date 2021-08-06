@@ -67,35 +67,35 @@
   <img src="/icons/css.png">&nbsp;
   <!-- JS Icon -->
   <img src="/icons/js.png">&nbsp;
-  <!-- TS Icon -->
-  <img src="/icons/ts.png">&nbsp;
-  <!--AdobeXD Icon
-  <img src="/icons/adobeXD.png">&nbsp;-->
   <!-- Figma Icon -->
   <img src="/icons/figma.png">&nbsp;
+  <!--AdobeXD Icon
+  <img src="/icons/adobeXD.png">&nbsp;-->
+  <!-- AdobePS Icon
+  <img src="/icons/ps.png">&nbsp;-->
   <!-- Git Icon -->
   <img src="/icons/git.png">&nbsp;
   <!--VueJS Icon-->
   <img src="/icons/vuejs.png">&nbsp;
-  <!-- NodeJS Icon -->
-  <img src="/icons/nodejs.png">&nbsp;
-  <!-- AdonisJS Icon -->
-  <img src="/icons/adonisjs.png">&nbsp;
+  <!-- React Icon -->
+  <img src="/icons/react.png">&nbsp;
+  <!-- NextJS Icon -->
+  <img src="/icons/nextjs.png">&nbsp;
 </p>
 
 **🚀 Tenho interesse:**
 
-  <p align="left">
-  <!-- AdobePS Icon
-  <img src="/icons/ps.png">&nbsp;-->
-  <!-- React Icon -->
-  <img src="/icons/react.png">&nbsp;
+<p align="left">
   <!-- React Native Icon -->
   <img src="/icons/reactnative.png">&nbsp;
   <!-- Sass Icon -->
   <img src="/icons/sass.png">&nbsp;
-  <!-- NextJS Icon -->
-  <img src="/icons/nextjs.png">&nbsp;
+  <!-- TS Icon -->
+  <img src="/icons/ts.png">&nbsp;
+  <!-- NodeJS Icon -->
+  <img src="/icons/nodejs.png">&nbsp;
+  <!-- AdonisJS Icon -->
+  <img src="/icons/adonisjs.png">&nbsp;
   <!-- Laravel Icon -->
   <img src="/icons/laravel.png">&nbsp;
   <!-- PHP Icon -->
