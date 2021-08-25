@@ -30,14 +30,14 @@
 </p>
 
 <!-- Apresentação -->
-### <img src="/icons/hello.gif" width="30px"> Oi, meu nome é Thiago Silva Lopes!
 
+### <img src="assets/icons/hello.gif" width="30px"> Oi, meu nome é Thiago Silva Lopes!
 
 <p>Atualmente estou estudando Análise e Desenvolvimento de Sistemas na <strong> <a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">FATEC Zona Sul</a></strong>, e viso aprender cada vez mais, para se tornar um programador <strong>Front End experiente</strong>. Atuando em grandes empresas de tecnologia;</p>
 <p>Te convido a visitar meus repositórios e meu <strong><a target="_blank" href="https://www.linkedin.com/in/thiagosilvaloopes/">LinkedIn</a></strong>, onde você pode ver meus projetos. Sejam eles já desenvolvidos, ou em desenvolvimento. Juntamente com minhas habilidades em <strong>UX/UI, Front End e Back End. 🤟🏼😁☺</strong>
 
 ---
- 
+
 <!-- ReadMe em EN & PT-BR: -->
 <table align="right">
  <td>Idioma do Conteúdo:</td>
@@ -62,51 +62,52 @@
 
 <p align="left">
   <!-- HTML Icon -->
-  <img src="/icons/html.png">&nbsp;
+  <img src="assets/icons/html.png">&nbsp;
   <!-- CSS Icon -->
-  <img src="/icons/css.png">&nbsp;
+  <img src="assets/icons/css.png">&nbsp;
   <!-- JS Icon -->
-  <img src="/icons/js.png">&nbsp;
+  <img src="assets/icons/js.png">&nbsp;
   <!-- Figma Icon -->
-  <img src="/icons/figma.png">&nbsp;
+  <img src="assets/icons/figma.png">&nbsp;
   <!--AdobeXD Icon
-  <img src="/icons/adobeXD.png">&nbsp;-->
+  <img src="assets/icons/adobeXD.png">&nbsp;-->
   <!-- AdobePS Icon
-  <img src="/icons/ps.png">&nbsp;-->
+  <img src="assets/icons/ps.png">&nbsp;-->
   <!-- Git Icon -->
-  <img src="/icons/git.png">&nbsp;
+  <img src="assets/icons/git.png">&nbsp;
   <!--VueJS Icon-->
-  <img src="/icons/vuejs.png">&nbsp;
+  <img src="assets/icons/vuejs.png">&nbsp;
   <!-- React Icon -->
-  <img src="/icons/react.png">&nbsp;
+  <img src="assets/icons/react.png">&nbsp;
   <!-- NextJS Icon -->
-  <img src="/icons/nextjs.png">&nbsp;
+  <img src="assets/icons/nextjs.png">&nbsp;
 </p>
 
 **🚀 Tenho interesse:**
 
 <p align="left">
   <!-- React Native Icon -->
-  <img src="/icons/reactnative.png">&nbsp;
+  <img src="assets/icons/reactnative.png">&nbsp;
   <!-- Sass Icon -->
-  <img src="/icons/sass.png">&nbsp;
+  <img src="assets/icons/sass.png">&nbsp;
   <!-- TS Icon -->
-  <img src="/icons/ts.png">&nbsp;
+  <img src="assets/icons/ts.png">&nbsp;
   <!-- NodeJS Icon -->
-  <img src="/icons/nodejs.png">&nbsp;
+  <img src="assets/icons/nodejs.png">&nbsp;
   <!-- AdonisJS Icon -->
-  <img src="/icons/adonisjs.png">&nbsp;
+  <img src="assets/icons/adonisjs.png">&nbsp;
   <!-- Laravel Icon -->
-  <img src="/icons/laravel.png">&nbsp;
+  <img src="assets/icons/laravel.png">&nbsp;
   <!-- PHP Icon -->
-  <img src="/icons/php.png">&nbsp;
+  <img src="assets/icons/php.png">&nbsp;
 </p>
 
 <!--Add a line to split sections-->
-****
- 
+
+---
+
 <!--Configs on: https://github.com/anuraghazra/github-readme-stats
 -->
 
 ![Profile Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact&custom_title=Thiagoow%20-%20Linguagens%20Mais%20Utilizadas:&theme=dark&hide_border=true&hide=visual%20basic%20.net)
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Thiagoow&show_icons=true&theme=dark&hide_border=true&custom_title=Thiago%20Silva%20Lopes%20-%20Estatísticas%20do%20GitHub:&include_all_commits=true&hide=issues,contribs)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Thiagoow&showassets_icons=true&theme=dark&hide_border=true&custom_title=Thiago%20Silva%20Lopes%20-%20Estatísticas%20do%20GitHub:&include_all_commits=true&hide=issues,contribs)

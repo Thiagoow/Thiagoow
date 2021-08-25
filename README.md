@@ -30,13 +30,14 @@
 </p>
 
 <!-- Presentation -->
-### <img src="/icons/hello.gif" width="30px"> Hi, my name is Thiago Silva Lopes!
+
+### <img src="assets/icons/hello.gif" width="30px"> Hi, my name is Thiago Silva Lopes!
 
 <p>I'm currently studying Systems Analysis and Development at <strong><a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">Fatec Zona Sul</a></strong>, and I aim to learn always more. To become a <strong>Experienced Front End Developer</strong>, working in large technology companies;</p>
 <p>I invite you to visit my repositories and my <strong><a target="_blank" href="https://www.linkedin.com/in/thiagosilvaloopes/">LinkedIn</a></strong>, where you can see my projects. Whether they are already developed, or under development. Along with my skills in <strong>UX/UI, Front End and Back End. 🤟🏼😁☺</strong>
 
 ---
-    
+
 <!-- ReadMe in EN & PT-BR: -->
 <table align="right">
  <td>Content Language:</td>
@@ -45,7 +46,7 @@
 </table>
 
 ### 🎯 Objectives
-    
+
 <p>📌 Mastering the languages I'm interested in;</p>
 <p>📌 Deepen always more into my professional area;</p>
 <p>📌 Entering the job market as a <strong>Front End Jr</strong> dev. 🎆</p>
@@ -61,49 +62,50 @@
 
 <p align="left">
   <!-- HTML Icon -->
-  <img src="/icons/html.png">&nbsp;
+  <img src="assets/icons/html.png">&nbsp;
   <!-- CSS Icon -->
-  <img src="/icons/css.png">&nbsp;
+  <img src="assets/icons/css.png">&nbsp;
   <!-- JS Icon -->
-  <img src="/icons/js.png">&nbsp;
+  <img src="assets/icons/js.png">&nbsp;
   <!-- Figma Icon -->
-  <img src="/icons/figma.png">&nbsp;
+  <img src="assets/icons/figma.png">&nbsp;
   <!--AdobeXD Icon
-  <img src="/icons/adobeXD.png">&nbsp;-->
+  <img src="assets/icons/adobeXD.png">&nbsp;-->
   <!-- AdobePS Icon
-  <img src="/icons/ps.png">&nbsp;-->
+  <img src="assets/icons/ps.png">&nbsp;-->
   <!-- Git Icon -->
-  <img src="/icons/git.png">&nbsp;
+  <img src="assets/icons/git.png">&nbsp;
   <!--VueJS Icon-->
-  <img src="/icons/vuejs.png">&nbsp;
+  <img src="assets/icons/vuejs.png">&nbsp;
   <!-- React Icon -->
-  <img src="/icons/react.png">&nbsp;
+  <img src="assets/icons/react.png">&nbsp;
   <!-- NextJS Icon -->
-  <img src="/icons/nextjs.png">&nbsp;
+  <img src="assets/icons/nextjs.png">&nbsp;
 </p>
 
 **🚀 I'm interested:**
 
 <p align="left">
   <!-- React Native Icon -->
-  <img src="/icons/reactnative.png">&nbsp;
+  <img src="assets/icons/reactnative.png">&nbsp;
   <!-- Sass Icon -->
-  <img src="/icons/sass.png">&nbsp;
+  <img src="assets/icons/sass.png">&nbsp;
   <!-- TS Icon -->
-  <img src="/icons/ts.png">&nbsp;
+  <img src="assets/icons/ts.png">&nbsp;
   <!-- NodeJS Icon -->
-  <img src="/icons/nodejs.png">&nbsp;
+  <img src="assets/icons/nodejs.png">&nbsp;
   <!-- AdonisJS Icon -->
-  <img src="/icons/adonisjs.png">&nbsp;
+  <img src="assets/icons/adonisjs.png">&nbsp;
   <!-- Laravel Icon -->
-  <img src="/icons/laravel.png">&nbsp;
+  <img src="assets/icons/laravel.png">&nbsp;
   <!-- PHP Icon -->
-  <img src="/icons/php.png">&nbsp;
+  <img src="assets/icons/php.png">&nbsp;
 </p>
 
 <!--Add a line to split sections-->
-****
- 
+
+---
+
 <!--Configs on: https://github.com/anuraghazra/github-readme-stats
 -->
 
