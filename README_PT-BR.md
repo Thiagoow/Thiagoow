@@ -1,9 +1,11 @@
-<!-- Seção de link para o meu portfólio: -->
-<div align="center">
-    <img src="./assets/portfolioEmoji.jpg" width="30px" align="center">
-    ### Veja meu portfólio! ☝🏼
-</div>
+<!-- Link para o meu portfólio: -->
+<p align="center">
+    <a target="_blank" href="https://thiagosl.netlify.app/">
+      <img src="./assets/portfolioEmoji.png" width="30px" align="center">
+    </a>
+</p>
 
+### Visite meu portfólio! ☝🏼
 
 <!-- Divisor animado em GIF: -->
 <p align="center">
