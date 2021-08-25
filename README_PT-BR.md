@@ -1,11 +1,10 @@
 <!-- Link para o meu portfólio: -->
 <p align="center">
     <a target="_blank" href="https://thiagosl.netlify.app/">
-      <img src="./assets/portfolioEmoji.png" width="30px" align="center">
+      <img src="./assets/portfolioEmoji.png" width="120px" align="center">
     </a>
+    <h4 align="center">Visite o meu portfólio! ☝🏼</h4>
 </p>
-
-### Visite meu portfólio! ☝🏼
 
 <!-- Divisor animado em GIF: -->
 <p align="center">
