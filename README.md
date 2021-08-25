@@ -1,7 +1,7 @@
 <!-- Link to my portfolio: -->
 <p align="center">
     <a target="_blank" href="https://thiagosl.netlify.app/">
-      <img src="./assets/portfolioEmoji.png" width="120px" align="center">
+      <img src="./assets/portfolioEmoji.png" width="90px" align="center">
     </a>
     <h4 align="center">Visit my portfolio! ☝🏼</h4>
 </p>
