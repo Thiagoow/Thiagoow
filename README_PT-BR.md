@@ -25,10 +25,19 @@
   <a href="mailto:thiagodrive08@hotmail.com">
     <img src="https://img.shields.io/badge/-Meu%20Email-ff0000?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
-   &nbsp;
+  &nbsp;
 <!-- Badge - My Settings -->
   <a href="https://github.com/Thiagoow/My-Settings">
     <img src="https://img.shields.io/badge/-Minhas%20Configs-06c91a?logo=visual-studio-code">
+  </a>
+ </p>
+ 
+<!-- Segunda Linha de Badges: -->
+
+ <p align="center">
+<!-- Badge - Behance -->
+  <a href="https://www.behance.net/thiagosilval2">
+    <img src="https://img.shields.io/badge/-Projetos%20UX/UI-381b82?logo=behance">
   </a>
    &nbsp;
     <!-- Badge - Instagram -->
