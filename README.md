@@ -31,11 +31,13 @@
     <img src="https://img.shields.io/badge/-My%20Settings-06c91a?logo=visual-studio-code">
   </a>
  </p>
+  
+<!-- Second Badges Row: -->
  
  <p align="center">
 <!-- Badge - Behance -->
   <a href="https://www.behance.net/thiagosilval2">
-    <img src="https://img.shields.io/badge/-My%20UX/UI%20Projects-381b82?logo=behance">
+    <img src="https://img.shields.io/badge/-UX/UI%20Projects-381b82?logo=behance">
   </a>
    &nbsp;
     <!-- Badge - Instagram -->
