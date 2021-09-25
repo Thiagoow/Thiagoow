@@ -2,8 +2,8 @@
 <p align="center">
     <a target="_blank" href="https://thiagosl.netlify.app/">
       <img src="./assets/portfolioEmoji.png" width="90px" align="center">
+      <h4 align="center">Visite meu portfólio! ☝🏼</h4>
     </a>
-    <h4 align="center">Visite meu portfólio! ☝🏼</h4>
 </p>
 
 <!-- Divisor animado em GIF: -->
