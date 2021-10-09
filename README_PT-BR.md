@@ -75,48 +75,47 @@
 <!-- GIF Gato digitando :p -->
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" align="right">
 
+
 **📚 Estou estudando:**
 
 <p align="left">
   <!-- HTML Icon -->
-  <img src="assets/icons/html.png">&nbsp;
+  <img src="assets/icons/html.svg" width="34px" height="34px">&nbsp;
   <!-- CSS Icon -->
-  <img src="assets/icons/css.png">&nbsp;
+  <img src="assets/icons/css.svg" width="34px" height="34px">&nbsp;
   <!-- JS Icon -->
-  <img src="assets/icons/js.png">&nbsp;
+  <img src="assets/icons/js.svg" width="34px" height="34px">&nbsp;
   <!-- Figma Icon -->
-  <img src="assets/icons/figma.png">&nbsp;
+  <img src="assets/icons/figma.svg" width="34px" height="34px">&nbsp;
   <!--AdobeXD Icon
-  <img src="assets/icons/adobeXD.png">&nbsp;-->
+  <img src="assets/icons/adobeXD.svg" width="34px" height="34px">&nbsp;-->
   <!-- AdobePS Icon
-  <img src="assets/icons/ps.png">&nbsp;-->
+  <img src="assets/icons/ps.svg" width="34px" height="34px">&nbsp;-->
   <!-- Git Icon -->
-  <img src="assets/icons/git.png">&nbsp;
+  <img src="assets/icons/git.svg" width="34px" height="34px">&nbsp;
   <!--VueJS Icon-->
-  <img src="assets/icons/vuejs.png">&nbsp;
+  <img src="assets/icons/vuejs.svg" width="34px" height="34px">&nbsp;
   <!-- React Icon -->
-  <img src="assets/icons/react.png">&nbsp;
+  <img src="assets/icons/react.svg" width="34px" height="34px">&nbsp;
   <!-- NextJS Icon -->
-  <img src="assets/icons/nextjs.png">&nbsp;
+  <img src="assets/icons/nextjs.svg" width="34px" height="34px">&nbsp;
 </p>
 
 **🚀 Tenho interesse:**
 
 <p align="left">
-  <!-- React Native Icon -->
-  <img src="assets/icons/reactnative.png">&nbsp;
   <!-- Sass Icon -->
-  <img src="assets/icons/sass.png">&nbsp;
+  <img src="assets/icons/sass.svg" width="34px" height="34px">&nbsp;
   <!-- TS Icon -->
-  <img src="assets/icons/ts.png">&nbsp;
+  <img src="assets/icons/ts.svg" width="34px" height="34px">&nbsp;
   <!-- NodeJS Icon -->
-  <img src="assets/icons/nodejs.png">&nbsp;
+  <img src="assets/icons/nodejs.svg" width="34px" height="34px">&nbsp;
   <!-- AdonisJS Icon -->
-  <img src="assets/icons/adonisjs.png">&nbsp;
+  <img src="assets/icons/adonisjs.svg" width="34px" height="34px">&nbsp;
   <!-- Laravel Icon -->
-  <img src="assets/icons/laravel.png">&nbsp;
+  <img src="assets/icons/laravel.svg" width="34px" height="34px">&nbsp;
   <!-- PHP Icon -->
-  <img src="assets/icons/php.png">&nbsp;
+  <img src="assets/icons/php.svg" width="34px" height="34px">&nbsp;
 </p>
 
 <!--Add a line to split sections-->
