@@ -94,6 +94,8 @@
   <img src="assets/icons/git.svg" width="34px" height="34px">&nbsp;
   <!--VueJS Icon-->
   <img src="assets/icons/vuejs.svg" width="34px" height="34px">&nbsp;
+  <!--NuxtJS Icon-->
+  <img src="assets/icons/nuxt.svg" width="34px" height="34px">&nbsp;
   <!-- React Icon -->
   <img src="assets/icons/react.svg" width="34px" height="34px">&nbsp;
   <!-- NextJS Icon -->
