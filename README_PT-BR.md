@@ -91,8 +91,10 @@
   <img src="assets/icons/adobeXD.svg" width="34px" height="34px">&nbsp;-->
   <!-- AdobePS Icon
   <img src="assets/icons/ps.svg" width="34px" height="34px">&nbsp;-->
-  <!-- Git Icon -->
-  <img src="assets/icons/git.svg" width="34px" height="34px">&nbsp;
+  <!-- Git Icon 
+  <img src="assets/icons/git.svg" width="34px" height="34px">&nbsp;-->
+  <!-- Sass Icon -->
+  <img src="assets/icons/sass.svg" width="34px" height="34px">&nbsp;
   <!--VueJS Icon-->
   <img src="assets/icons/vuejs.svg" width="34px" height="34px">&nbsp;
   <!--NuxtJS Icon-->
@@ -106,8 +108,6 @@
 **🚀 Tenho interesse:**
 
 <p align="left">
-  <!-- Sass Icon -->
-  <img src="assets/icons/sass.svg" width="34px" height="34px">&nbsp;
   <!-- TS Icon -->
   <img src="assets/icons/ts.svg" width="34px" height="34px">&nbsp;
   <!-- NodeJS Icon -->
