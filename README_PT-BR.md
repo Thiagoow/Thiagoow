@@ -48,9 +48,9 @@
 
 <!-- Apresentação -->
 
-### <img src="assets/icons/hello.gif" width="30px"> Oi, meu nome é Thiago Silva Lopes!
+### <img src="assets/icons/hello.gif" width="30px"> Oi, meu nome é Thiago da Silva Lopes!
 
-<p>Atualmente estou estudando Análise e Desenvolvimento de Sistemas na <strong> <a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">FATEC Zona Sul</a></strong>, e viso aprender cada vez mais, para se tornar um programador <strong>Front End experiente</strong>. Atuando em grandes empresas de tecnologia;</p>
+<p>Atualmente eu estudo Análise e Desenvolvimento de Sistemas na <strong> <a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">FATEC Zona Sul</a></strong>, e viso aprender cada vez mais, para se tornar um <strong>UX/UI Designer</strong>, e um programador <strong>Front End experiente</strong>;</p>
 <p>Te convido a visitar meus repositórios e meu <strong><a target="_blank" href="https://www.linkedin.com/in/thiagosilvaloopes/">LinkedIn</a></strong>, onde você pode ver meus projetos. Sejam eles já desenvolvidos, ou em desenvolvimento. Juntamente com minhas habilidades em <strong>UX/UI, Front End e Back End. 🤟🏼😁☺</strong>
 
 ---
@@ -64,9 +64,9 @@
 
 ### 🎯 Objetivos
 
-<p>📌 Dominar as linguagens que tenho interesse;</p>
+<p>📌 Dominar as linguagens e ferramentas mais atuais e utilizadas;</p>
 <p>📌 Se aprofundar cada vez mais na minha área profissional;</p>
-<p>📌 Entrar no mercado de trabalho como dev <strong>Front End Jr</strong>. 🎆</p>
+<p>📌 Entrar no mercado de trabalho como <strong>Desenvolvedor Front End Jr</strong> ou <strong>UX/UI Designer Jr</strong> 🎆</p>
 
 ---
 
