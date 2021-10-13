@@ -66,13 +66,13 @@
 
 <p>📌 Dominar as linguagens/ferramentas mais atuais e utilizadas;</p>
 <p>📌 Se aprofundar cada vez mais na minha área profissional;</p>
-<p>📌 Entrar no mercado de trabalho como <strong>Desenvolvedor Front End Jr</strong> ou <strong>UX/UI Designer Jr</strong> 🎆</p>
+<p>📌 Entrar no mercado de trabalho como <strong>Desenvolvedor Front End</strong> ou <strong>UX/UI Designer Jr</strong> 🎆</p>
 
 ---
 
 ### 👨🏻‍💻 Tecnologias
 
-<!-- GIF Gato digitando :p -->
+<!-- GIF Gatinho digitando :p -->
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" align="right">
 
 
@@ -81,8 +81,8 @@
 <p align="left">
   <!-- Figma Icon -->
   <img src="assets/icons/figma.svg" width="34px" height="34px">&nbsp;
-  <!--AdobeXD Icon -->
-  <img src="assets/icons/adobeXD.svg" width="34px" height="34px">&nbsp;
+  <!--AdobeXD Icon 
+  <img src="assets/icons/adobeXD.svg" width="34px" height="34px">&nbsp; -->
   <!-- HTML Icon -->
   <img src="assets/icons/html.svg" width="34px" height="34px">&nbsp;
   <!-- CSS Icon -->
