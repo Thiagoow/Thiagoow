@@ -50,7 +50,7 @@
 
 ### <img src="assets/icons/hello.gif" width="30px"> Oi, meu nome é Thiago da Silva Lopes!
 
-<p>Atualmente eu estudo Análise e Desenvolvimento de Sistemas na <strong> <a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">FATEC Zona Sul</a></strong>, e minha meta é aprender cada vez mais, para se tornar um <strong>Experiente UX/UI Designer</strong>, e desenvolvedor <strong>Front End</strong>;</p>
+<p>Atualmente eu estudo Análise e Desenvolvimento de Sistemas na <strong> <a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">FATEC Zona Sul</a></strong>, e minha meta é aprender cada vez mais. Para se tornar um <strong>Experiente UX/UI Designer</strong>, e desenvolvedor <strong>Front End</strong>;</p>
 <p>Te convido a visitar meus repositórios e meu <strong><a target="_blank" href="https://www.behance.net/thiagosilval2">Perfil no Behance</a></strong>, onde você pode ver todos os meus projetos. Sejam eles já desenvolvidos, ou em desenvolvimento. Juntamente com as minhas habilidades em <strong>UX/UI, Front End e Back End. 🤟🏼😁☺</strong>
 
 ---
