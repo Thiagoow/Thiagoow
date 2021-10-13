@@ -78,16 +78,16 @@
 **📚 Currently studying:**
 
 <p align="left">
+  <!-- Figma Icon -->
+  <img src="assets/icons/figma.svg" width="34px" height="34px">&nbsp;
+  <!--AdobeXD Icon -->
+  <img src="assets/icons/adobeXD.svg" width="34px" height="34px">&nbsp;
   <!-- HTML Icon -->
   <img src="assets/icons/html.svg" width="34px" height="34px">&nbsp;
   <!-- CSS Icon -->
   <img src="assets/icons/css.svg" width="34px" height="34px">&nbsp;
   <!-- JS Icon -->
   <img src="assets/icons/js.svg" width="34px" height="34px">&nbsp;
-  <!-- Figma Icon -->
-  <img src="assets/icons/figma.svg" width="34px" height="34px">&nbsp;
-  <!--AdobeXD Icon
-  <img src="assets/icons/adobeXD.svg" width="34px" height="34px">&nbsp;-->
   <!-- AdobePS Icon
   <img src="assets/icons/ps.svg" width="34px" height="34px">&nbsp;-->
   <!-- Git Icon 
