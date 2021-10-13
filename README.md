@@ -66,7 +66,7 @@
 
 <p>📌 Mastering the most current and used languages/tools;</p>
 <p>📌 Deepen always more into my professional area;</p>
-<p>📌 Entering the job market as a <strong>Jr Front End Developer</strong> or a <strong>Jr UX/UI Designer</strong>. 🎆</p>
+<p>📌 Entering the job market as a <strong>Jr Front End Developer</strong> or <strong>UX/UI Designer</strong>. 🎆</p>
 
 ---
 
@@ -80,8 +80,8 @@
 <p align="left">
   <!-- Figma Icon -->
   <img src="assets/icons/figma.svg" width="34px" height="34px">&nbsp;
-  <!--AdobeXD Icon -->
-  <img src="assets/icons/adobeXD.svg" width="34px" height="34px">&nbsp;
+  <!--AdobeXD Icon
+  <img src="assets/icons/adobeXD.svg" width="34px" height="34px">&nbsp; -->
   <!-- HTML Icon -->
   <img src="assets/icons/html.svg" width="34px" height="34px">&nbsp;
   <!-- CSS Icon -->
