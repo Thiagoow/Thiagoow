@@ -50,7 +50,7 @@
 
 ### <img src="assets/icons/hello.gif" width="30px"> Hi, my name is Thiago Silva Lopes!
 
-<p>I'm currently studying Systems Analysis and Development at <strong><a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">Fatec Zona Sul</a></strong>, and I aim to learn always more. To become a <strong>UX/UI Designer</strong>, and a <strong>Experienced Front End Developer</strong>;</p>
+<p>I'm currently studying Systems Analysis and Development at <strong><a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">Fatec Zona Sul</a></strong>, and my goal is learn always more. To become a <strong>Experienced UX/UI Designer</strong>, and <strong>Front End Developer</strong>;</p>
 <p>I invite you to visit my repositories and my <strong><a target="_blank" href="https://www.linkedin.com/in/thiagosilvaloopes/">LinkedIn</a></strong>, where you can see my projects. Whether they are already developed, or under development. Along with my skills in <strong>UX/UI, Front End and Back End. 🤟🏼😁☺</strong>
 
 ---
