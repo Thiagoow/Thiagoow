@@ -64,7 +64,7 @@
 
 ### 🎯 Objetivos
 
-<p>📌 Dominar as linguagens e ferramentas mais atuais e utilizadas;</p>
+<p>📌 Dominar as linguagens/ferramentas mais atuais e utilizadas;</p>
 <p>📌 Se aprofundar cada vez mais na minha área profissional;</p>
 <p>📌 Entrar no mercado de trabalho como <strong>Desenvolvedor Front End Jr</strong> ou <strong>UX/UI Designer Jr</strong> 🎆</p>
 
