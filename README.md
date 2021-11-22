@@ -70,7 +70,7 @@
 
 ---
 
-### 👨🏻‍💻 Objectives
+### 👨🏻‍💻 Technologies
 
 <!-- Cat typing GIF :p -->
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" align="right">
