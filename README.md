@@ -73,7 +73,7 @@
 ### 👨🏻‍💻 Technologies
 
 <!-- Cat typing GIF :p -->
-<img src="./assets/catTyping.gif" width="240px" align="right">
+<img src="./assets/catTyping.gif" width="250px" align="right">
 
 **📚 Currently studying:**
 
