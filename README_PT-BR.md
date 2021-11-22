@@ -73,7 +73,7 @@
 ### 👨🏻‍💻 Tecnologias
 
 <!-- GIF Gatinho digitando :p -->
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" width="300px" align="right">
 
 
 **📚 Estou estudando:**
