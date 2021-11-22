@@ -73,7 +73,7 @@
 ### 👨🏻‍💻 Technologies
 
 <!-- Cat typing GIF :p -->
-<img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" width="300px" align="right">
+<img src="./assets/catTyping.gif" width="240px" align="right">
 
 **📚 Currently studying:**
 
