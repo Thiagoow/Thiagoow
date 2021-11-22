@@ -1,7 +1,7 @@
 <!-- Link to my portfolio: -->
 <p align="center">
     <a target="_blank" href="https://thiagosl.netlify.app/">
-      <img src="./assets/favicon.webp" width="120px" align="center">
+      <img src="./assets/favicon.webp" width="100px" align="center">
       <h4 align="center">Visit my portfolio! ☝🏼</h4>
     </a>
 </p>
