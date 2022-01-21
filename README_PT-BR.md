@@ -99,15 +99,15 @@
   <img src="assets/icons/sass.svg" width="34px" height="34px">&nbsp;
   <!-- NextJS Icon -->
   <img src="assets/icons/nextjs.svg" width="34px" height="34px">&nbsp;
-  <!--VueJS Icon-->
+</p>
+
+**🚀 I'm interested:**
+
+<p align="left">
+   <!--VueJS Icon-->
   <img src="assets/icons/vuejs.svg" width="34px" height="34px">&nbsp;
   <!--NuxtJS Icon-->
   <img src="assets/icons/nuxt.svg" width="34px" height="34px">&nbsp;
-</p>
-
-**🚀 Tenho interesse:**
-
-<p align="left">
   <!-- TS Icon -->
   <img src="assets/icons/ts.svg" width="34px" height="34px">&nbsp;
   <!-- NodeJS Icon -->
@@ -116,8 +116,8 @@
   <img src="assets/icons/adonisjs.svg" width="34px" height="34px">&nbsp;
   <!-- Laravel Icon -->
   <img src="assets/icons/laravel.svg" width="34px" height="34px">&nbsp;
-  <!-- PHP Icon -->
-  <img src="assets/icons/php.svg" width="34px" height="34px">&nbsp;
+  <!-- PHP Icon 
+  <img src="assets/icons/php.svg" width="34px" height="34px">&nbsp; -->
 </p>
 
 <!--Add a line to split sections-->
