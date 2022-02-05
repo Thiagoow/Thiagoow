@@ -22,7 +22,7 @@
   </a>
   &nbsp;
   <!-- Badge - Email -->
-  <a href="mailto:thiagodrive08@hotmail.com">
+  <a href="mailto:thiagoslopes8@outlook.com">
     <img src="https://img.shields.io/badge/-Meu%20Email-ff0000?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
   </a>
   &nbsp;
