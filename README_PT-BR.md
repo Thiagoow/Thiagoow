@@ -89,8 +89,6 @@
   <img src="assets/icons/css.svg" width="34px" height="34px">&nbsp;
   <!-- JS Icon -->
   <img src="assets/icons/js.svg" width="34px" height="34px">&nbsp;
-  <!-- AdobePS Icon
-  <img src="assets/icons/ps.svg" width="34px" height="34px">&nbsp;-->
   <!-- Git Icon 
   <img src="assets/icons/git.svg" width="34px" height="34px">&nbsp;-->
   <!-- React Icon -->
@@ -99,6 +97,8 @@
   <img src="assets/icons/sass.svg" width="34px" height="34px">&nbsp;
   <!-- NextJS Icon -->
   <img src="assets/icons/nextjs.svg" width="34px" height="34px">&nbsp;
+  <!-- StyledComponents Icon -->
+  <img src="assets/icons/styledComponents.svg" width="34px" height="34px">&nbsp;
 </p>
 
 **🚀 I'm interested:**
