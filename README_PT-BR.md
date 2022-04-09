@@ -37,13 +37,19 @@
  <p align="center">
 <!-- Badge - Behance -->
   <a href="https://www.behance.net/thiagosilval2">
-    <img src="https://img.shields.io/badge/-Projetos%20de%20UI-381b82?logo=behance">
+    <img src="https://img.shields.io/badge/-Projects%20de%20UI-381b82?logo=behance">
   </a>
    &nbsp;
-    <!-- Badge - Instagram -->
-  <a href="https://www.instagram.com/thiagosilvaloopes/">
+    <!-- Badge - Instagram 
+  <a href="https://www.instagram.com/thiagosilvaloopes">
     <img src="https://img.shields.io/badge/-Instagram%20-ff7b00?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
+  </a> -->
+    &nbsp;
+    <!-- Badge - DEV.to -->
+  <a href="https://dev.to/thiagoow">
+    <img src="https://img.shields.io/badge/-Meus%20Artigos%20-14171A?style=round-square&logo=dev.to&logoColor=white&link=https://dev.to/thiagoow">
   </a>
+    
 </p>
 
 <!-- Apresentação -->
