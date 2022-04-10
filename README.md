@@ -40,15 +40,15 @@
     <img src="https://img.shields.io/badge/-UI%20Projects-381b82?logo=behance">
   </a>
    &nbsp;
-    <!-- Badge - Instagram -->
+    <!-- Badge - Instagram
   <a href="https://www.instagram.com/thiagosilvaloopes">
     <img src="https://img.shields.io/badge/-Instagram%20-ff7b00?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
-  </a>
+  </a> -->
     &nbsp;
-    <!-- Badge - DEV.to
+    <!-- Badge - DEV.to -->
   <a href="https://dev.to/thiagoow">
     <img src="https://img.shields.io/badge/-My%20Articles%20-14171A?style=round-square&logo=dev.to&logoColor=white&link=https://dev.to/thiagoow">
-  </a> -->
+  </a> 
     
 </p>
 
