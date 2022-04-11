@@ -36,7 +36,7 @@
  
  <p align="center">
 <!-- Badge - Behance -->
-  <a href="https://www.behance.net/thiagosilval2">
+  <a href="https://www.behance.net/thiagoow">
     <img src="https://img.shields.io/badge/-UI%20Projects-381b82?logo=behance">
   </a>
    &nbsp;
