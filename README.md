@@ -85,46 +85,46 @@
 
 <p align="left">
   <!-- Figma Icon -->
-  <img src="assets/icons/figma.svg" width="34px" height="34px">&nbsp;
+  <img src="assets/icons/tech/figma.svg" width="34px" height="34px">&nbsp;
   <!--AdobeXD Icon
-  <img src="assets/icons/adobeXD.svg" width="34px" height="34px">&nbsp; -->
+  <img src="assets/icons/tech/adobeXD.svg" width="34px" height="34px">&nbsp; -->
   <!-- HTML Icon
-  <img src="assets/icons/html.svg" width="34px" height="34px">&nbsp; -->
+  <img src="assets/icons/tech/html.svg" width="34px" height="34px">&nbsp; -->
   <!-- CSS Icon 
-  <img src="assets/icons/css.svg" width="34px" height="34px">&nbsp; -->
+  <img src="assets/icons/tech/css.svg" width="34px" height="34px">&nbsp; -->
   <!-- JS Icon -->
-  <img src="assets/icons/js.svg" width="34px" height="34px">&nbsp;
+  <img src="assets/icons/tech/js.svg" width="34px" height="34px">&nbsp;
   <!-- TS Icon -->
-  <img src="assets/icons/ts.svg" width="34px" height="34px">&nbsp;
+  <img src="assets/icons/tech/ts.svg" width="34px" height="34px">&nbsp;
   <!-- Git Icon 
-  <img src="assets/icons/git.svg" width="34px" height="34px">&nbsp;-->
+  <img src="assets/icons/tech/git.svg" width="34px" height="34px">&nbsp;-->
   <!-- React Icon -->
-  <img src="assets/icons/react.svg" width="34px" height="34px">&nbsp;
+  <img src="assets/icons/tech/react.svg" width="34px" height="34px">&nbsp;
   <!--VueJS Icon
-  <img src="assets/icons/vuejs.svg" width="34px" height="34px">&nbsp;  -->
+  <img src="assets/icons/tech/vuejs.svg" width="34px" height="34px">&nbsp;  -->
   <!--NuxtJS Icon -->
-  <img src="assets/icons/nuxt.svg" width="34px" height="34px">&nbsp;
+  <img src="assets/icons/tech/nuxt.svg" width="34px" height="34px">&nbsp;
   <!-- Sass Icon -->
-  <img src="assets/icons/sass.svg" width="34px" height="34px">&nbsp;
+  <img src="assets/icons/tech/sass.svg" width="34px" height="34px">&nbsp;
   <!-- StyledComponents Icon -->
-  <img src="assets/icons/styledComponents.svg" width="34px" height="34px">&nbsp;
+  <img src="assets/icons/tech/styledComponents.svg" width="34px" height="34px">&nbsp;
 </p>
 
 **🚀 I'm interested:**
 
 <p align="left">
   <!--Tailwind Icon-->
-  <img src="assets/icons/tailwindCss.svg" width="34px" height="34px">&nbsp;
+  <img src="assets/icons/tech/tailwindCss.svg" width="34px" height="34px">&nbsp;
   <!-- NodeJS Icon -->
-  <img src="assets/icons/nodejs.svg" width="34px" height="34px">&nbsp;
+  <img src="assets/icons/tech/nodejs.svg" width="34px" height="34px">&nbsp;
     <!-- NextJS Icon -->
-  <img src="assets/icons/nextjs.svg" width="34px" height="34px">&nbsp;
+  <img src="assets/icons/tech/nextjs.svg" width="34px" height="34px">&nbsp;
   <!-- AdonisJS Icon -->
-  <img src="assets/icons/adonisjs.svg" width="34px" height="34px">&nbsp;
+  <img src="assets/icons/tech/adonisjs.svg" width="34px" height="34px">&nbsp;
   <!-- Laravel Icon -->
-  <img src="assets/icons/laravel.svg" width="34px" height="34px">&nbsp;
+  <img src="assets/icons/tech/laravel.svg" width="34px" height="34px">&nbsp;
   <!-- PHP Icon 
-  <img src="assets/icons/php.svg" width="34px" height="34px">&nbsp; -->
+  <img src="assets/icons/tech/php.svg" width="34px" height="34px">&nbsp; -->
 </p>
 
 <!--Add a line to split sections-->
