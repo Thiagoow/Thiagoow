@@ -72,7 +72,7 @@
 
 <p>📌 Mastering the most current and used languages/tools;</p>
 <p>📌 Deepen always more into my professional area;</p>
-<p>📌 Start a job as a <strong>Jr Front End Developer</strong> or <strong>UX/UI Designer</strong>. 🎆</p>
+<p>📌 Start a job as a <strong>Jr Front End Developer</strong> or <strong>UI Designer</strong>. 🎆</p>
 
 ---
 
