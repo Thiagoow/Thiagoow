@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <!-- Badge - LinkedIn -->
-  <a href="https://www.linkedin.com/in/thiagosilvaloopes/">
+  <a href="https://www.linkedin.com/in/thiagosilvaloopes">
     <img src="https://img.shields.io/badge/-LinkedIn-0e00cf?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes">
   </a>
   &nbsp;
