@@ -1,6 +1,6 @@
 <!-- Link para o meu portfólio: -->
 <p align="center">
-    <a target="_blank" href="https://thiagosl.netlify.app/">
+    <a target="_blank" href="https://thiagosl.vercel.app">
       <img src="./assets/favicon.webp" width="100px" align="center">
       <h4 align="center">Visite meu portfólio! ☝🏼</h4>
     </a>
@@ -18,7 +18,7 @@
 <p align="center">
   <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/thiagosilvaloopes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e00cf?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e00cf?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes">
   </a>
   &nbsp;
   <!-- Badge - Email -->
@@ -80,7 +80,6 @@
 
 <!-- GIF Gatinho digitando :p -->
 <img src="./assets/catTyping.gif" width="300px" align="right">
-
 
 **📚 Estou estudando:**
 
