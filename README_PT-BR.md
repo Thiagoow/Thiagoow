@@ -88,20 +88,24 @@
   <img src="assets/icons/figma.svg" width="34px" height="34px">&nbsp;
   <!--AdobeXD Icon
   <img src="assets/icons/adobeXD.svg" width="34px" height="34px">&nbsp; -->
-  <!-- HTML Icon -->
-  <img src="assets/icons/html.svg" width="34px" height="34px">&nbsp;
-  <!-- CSS Icon -->
-  <img src="assets/icons/css.svg" width="34px" height="34px">&nbsp;
+  <!-- HTML Icon
+  <img src="assets/icons/html.svg" width="34px" height="34px">&nbsp; -->
+  <!-- CSS Icon 
+  <img src="assets/icons/css.svg" width="34px" height="34px">&nbsp; -->
   <!-- JS Icon -->
   <img src="assets/icons/js.svg" width="34px" height="34px">&nbsp;
+  <!-- TS Icon -->
+  <img src="assets/icons/ts.svg" width="34px" height="34px">&nbsp;
   <!-- Git Icon 
   <img src="assets/icons/git.svg" width="34px" height="34px">&nbsp;-->
   <!-- React Icon -->
   <img src="assets/icons/react.svg" width="34px" height="34px">&nbsp;
+  <!--VueJS Icon
+  <img src="assets/icons/vuejs.svg" width="34px" height="34px">&nbsp;  -->
+  <!--NuxtJS Icon -->
+  <img src="assets/icons/nuxt.svg" width="34px" height="34px">&nbsp;
   <!-- Sass Icon -->
   <img src="assets/icons/sass.svg" width="34px" height="34px">&nbsp;
-  <!-- NextJS Icon -->
-  <img src="assets/icons/nextjs.svg" width="34px" height="34px">&nbsp;
   <!-- StyledComponents Icon -->
   <img src="assets/icons/styledComponents.svg" width="34px" height="34px">&nbsp;
 </p>
@@ -109,14 +113,12 @@
 **🚀 I'm interested:**
 
 <p align="left">
-   <!--VueJS Icon-->
-  <img src="assets/icons/vuejs.svg" width="34px" height="34px">&nbsp;
-  <!--NuxtJS Icon-->
-  <img src="assets/icons/nuxt.svg" width="34px" height="34px">&nbsp;
-  <!-- TS Icon -->
-  <img src="assets/icons/ts.svg" width="34px" height="34px">&nbsp;
+  <!--Tailwind Icon-->
+  <img src="assets/icons/tailwindCss.svg" width="34px" height="34px">&nbsp;
   <!-- NodeJS Icon -->
   <img src="assets/icons/nodejs.svg" width="34px" height="34px">&nbsp;
+    <!-- NextJS Icon -->
+  <img src="assets/icons/nextjs.svg" width="34px" height="34px">&nbsp;
   <!-- AdonisJS Icon -->
   <img src="assets/icons/adonisjs.svg" width="34px" height="34px">&nbsp;
   <!-- Laravel Icon -->
