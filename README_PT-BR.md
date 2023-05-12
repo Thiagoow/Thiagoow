@@ -121,10 +121,10 @@
   <img src="assets/icons/tech/nextjs.svg" width="34px" height="34px">&nbsp;
   <!-- AdonisJS Icon -->
   <img src="assets/icons/tech/adonisjs.svg" width="34px" height="34px">&nbsp;
-  <!-- Laravel Icon -->
-  <img src="assets/icons/tech/laravel.svg" width="34px" height="34px">&nbsp;
-  <!-- PHP Icon 
-  <img src="assets/icons/tech/php.svg" width="34px" height="34px">&nbsp; -->
+  <!-- Java Icon -->
+  <img src="assets/icons/tech/java.svg" width="34px" height="34px">&nbsp;
+  <!-- Laravel Icon 
+  <img src="assets/icons/tech/laravel.svg" width="34px" height="34px">&nbsp; -->
 </p>
 
 <!--Add a line to split sections-->
