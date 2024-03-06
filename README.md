@@ -64,8 +64,8 @@
 <!-- ReadMe in EN & PT-BR: -->
 <table align="right">
  <td>Content Language:</td>
- <tr><td align="center"><a href="README_PT-BR.md">Português</a></td></tr>
  <tr><td align="center"><a href="README.md">English</a></td></tr>
+ <tr><td align="center"><a href="README_PT-BR.md">Português</a></td></tr>
 </table>
 
 ### 🎯 Objectives
