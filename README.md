@@ -1,11 +1,11 @@
-### <img src="assets/hello.gif" width="30px" height="30px"> Hi, my name is Thiago Lopes!
+### <img src="assets/hello.gif" width="30px" height="30px"> Hi, I'm Thiago Lopes!
 
 I’m a developer who spent the last few years building all kinds of stuff: 
 - a React Native app with TikTok-style feed for educational content.
 - a Browser Extension that automates job applications.
-- many Saas platforms like https://smartplayer.ai & https://zippia.com.
+- many Saas platforms like: https://smartplayer.ai & https://zippia.com
 
-Feel free to check my links below or contact me for a quick chat! Cheers
+Feel free to check my links below or contact me for a quick chat! Cheers 🤙🏼
 
 <!--Profile Badges-->
 <p align="left">
