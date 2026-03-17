@@ -35,7 +35,7 @@ Feel free to check my links below or contact me for a quick chat! Cheers
 
 ---
 <!-- Cat typing GIF -->
-<img src="./assets/catTyping.gif" width="300px" height="200px" align="right">
+<img src="./assets/catTyping.gif" width="280px" height="200px" align="right">
 
 **👨🏻‍💻 I'm experienced with:**
 
