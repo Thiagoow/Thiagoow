@@ -1,4 +1,4 @@
-### <img src="assets/hello.gif" width="30px" height="30px"> Hi, I'm Thiago Lopes!
+### <img src="assets/hello.gif" width="30px" height="30px"> Hi, I'm Thiago Silva Lopes!
 
 I’m a developer who spent the last few years building all kinds of stuff: 
 - a React Native app with TikTok-style feed for educational content.
