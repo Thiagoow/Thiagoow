@@ -60,6 +60,6 @@ Feel free to check my links below or contact me for a quick chat! Cheers ü§ôüè
 ---
 
 ![Profile Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoow&layout=compact&custom_title=Thiagoow%20-%20Most%20Used%20Languages:&theme=dark&hide_border=true&hide=visual%20basic%20.net,php,c%2B%2B)
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=thiagoow&show_icons=true&theme=dark&hide_border=true&custom_title=Thiago%20Silva%20Lopes%20-%20GitHub%20Stats:&include_all_commits=true&hide=issues,contribs)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=thiagoow&show_icons=true&theme=dark&hide_border=true&custom_title=Thiago%20Lopes%20-%20GitHub%20Stats:&include_all_commits=true&hide=issues,contribs)
 
 <!--Configs on: https://github.com/anuraghazra/github-readme-stats-->
