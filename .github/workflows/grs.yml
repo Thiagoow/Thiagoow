@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&custom_title=Thiagoow%20-%20Most%20Used%20Languages:&theme=dark&hide_border=true&hide=visual%20basic%20.net,php,c%2B%2B
+          options: username=${{ github.repository_owner }}&layout=compact&custom_title=Thiagoow%20-%20Most%20Used%20Languages:&theme=dark&hide_border=true&hide=visual%20basic%20.net,php,c%2B%2B
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
